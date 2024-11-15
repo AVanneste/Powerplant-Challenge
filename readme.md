@@ -22,7 +22,7 @@ I chose to use the FastAPI framework for Python because it's modern, fast and ea
 2. Create a virtual environment (recommended):
 ```bash
 python -m venv venv_pp # or any other name you want
-source venv/bin/activate
+source venv_pp/bin/activate
 ```
 
 3. Install the required packages:
